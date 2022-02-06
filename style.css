@@ -1,0 +1,12 @@
+#myCanvas {
+    border-width: 2px;
+    background-color: rgb(0, 0, 0);
+    border-style: ridge;
+}
+
+h4 {
+    background-color: #1e3030;
+    line-height: 2;
+    margin: 0px;
+    color: white;
+}
